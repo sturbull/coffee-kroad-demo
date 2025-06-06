@@ -1,0 +1,3 @@
+# Rhino configuration file
+# See https://appsilon.github.io/rhino/ for more details
+sass: node
